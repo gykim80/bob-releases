@@ -1,11 +1,11 @@
 {
-  "version": "0.0.21",
-  "notes": "Bob 0.0.21",
-  "pub_date": "2026-07-07T01:53:02Z",
+  "version": "0.0.22",
+  "notes": "Bob 0.0.22",
+  "pub_date": "2026-07-07T07:54:56Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/gykim80/bob-releases/releases/download/v0.0.21/Bob_0.0.21_aarch64.app.tar.gz",
-      "sha256": "8a8c5e9e355ca9838ef1e53ca2e32756458a3073990adaab05655eb0c3d4e290"
+      "url": "https://github.com/gykim80/bob-releases/releases/download/v0.0.22/Bob_0.0.22_aarch64.app.tar.gz",
+      "sha256": "53186467678027025301cc5c679bf51c89e88c8fd4be00a32d5a3db79db840da"
     }
   }
 }
